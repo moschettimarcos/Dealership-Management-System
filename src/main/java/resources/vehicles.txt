@@ -1,0 +1,10 @@
+Car,ABC1234,Ferrari,F430,Gasolina
+Car,XYZ5678,Lamborghini,Aventador,Gasolina
+Car,LMN9101,Mercedes-Benz,CLA,Diesel
+Car,OPQ2345,BMW,M3,Gasolina
+Car,STU6789,Audi,A4,Diesel
+Car,VWX3456,Porsche,911,Gasolina
+Car,YZA7890,Jaguar,F-Type,Gasolina
+Car,BCD1234,Chevrolet,Camaro,Gasolina
+Car,EFG5678,Volkswagen,Passat,Diesel
+Motorcycle,3DFG22,Honda,Hornet,Race
